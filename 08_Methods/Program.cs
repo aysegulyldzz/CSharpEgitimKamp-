@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _08_Methods
 {
@@ -11,7 +7,8 @@ namespace _08_Methods
         static void Main(string[] args)
         {
 
-            // Sonunda parantez () olan yapılara metot denir. Mor küp ile sembolize edilir (kilit de varsa private).
+            // Sonunda parantez () olan yapılara metot denir.
+            // Mor küp ile sembolize edilir (kilit de varsa private demektir).
             // Metotlar belirli bir işi yapan kod bloklarıdır, kod tekrarını önlerler.
             // Metotlar PascalCase ile yazılır, çağrılarak kullanılırlar.
             // Sınıflar kendi metotlarımızı oluşturmak için vardır.
