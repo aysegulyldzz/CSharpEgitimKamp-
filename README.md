@@ -1,4 +1,4 @@
-# 🚀 C# EĞİTİM KAMPI PROJELERİ
+# 🚀 C# EĞİTİM KAMPI PROJELERİM
 
 Bu repo, Murat Yücedağ’ın eğitmenliğinde gerçekleştirilen **C# Eğitim Kampı** süresince tamamlanan projeleri içermektedir.  
 Her proje, belirli programlama kavramlarının öğrenilmesine ve pekiştirilmesine katkı sağlamıştır.  
@@ -11,8 +11,8 @@ Her proje, belirli programlama kavramlarının öğrenilmesine ve pekiştirilmes
 |-----|----------------------|----------|
 | 01  | **MainSubjects**     | Konsola çıktı verme işlemleri ve temel C# program yapısının incelenmesi. |
 | 02  | **Variables**        | Farklı veri tiplerinde değişken tanımlamaları ve işlemler. |
-| 03  | **MakingDecisions**  | if-else yapıları ile koşullara bağlı karar mekanizmalarının kurulması. |
-| 04  | **Loops**            | for, while ve foreach döngüleri ile tekrar eden işlemlerin uygulanması. |
+| 03  | **MakingDecisions**  | if-else/switch-case yapıları ile koşullara bağlı karar mekanizmalarının kurulması. |
+| 04  | **Loops**            | for and while döngüleri ile tekrar eden işlemlerin uygulanması. |
 | 05  | **StarLoops**        | Döngülerle yıldız desenleri oluşturularak algoritmik düşüncenin geliştirilmesi. |
 | 06  | **Arrays**           | Birden fazla veriyi dizilerde saklama ve döngülerle işleme. |
 | 07  | **ForeachLoops**     | Foreach döngüsü ile sınav sistemi simülasyonu ve ortalama hesaplama. |
@@ -34,12 +34,12 @@ Her proje, belirli programlama kavramlarının öğrenilmesine ve pekiştirilmes
 ---
 
 ### 03_MakingDecisions ⚙️
-Program akışının koşullara göre yönlendirilmesi için **if, else if, else** yapıları kullanılmıştır.
+Program akışının koşullara göre yönlendirilmesi için **if, else if, else, switch, case** yapıları kullanılmıştır.
 
 ---
 
 ### 04_Loops 🔁
-**for, while ve foreach** döngüleriyle tekrarlayan işlemler uygulanmış, veri grupları üzerinde otomasyon sağlanmıştır.
+**for, while** döngüleriyle tekrarlayan işlemler uygulanmış, veri grupları üzerinde otomasyon sağlanmıştır.
 
 ---
 
