@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _09_DatabaseProject
 {
@@ -13,6 +9,8 @@ namespace _09_DatabaseProject
         static void Main(string[] args)
         {
             // Ado.net
+
+            #region TblCategory Listeleme
 
             Console.WriteLine("***** C# Veri Tabanlı Product-Category Bilgi Sistemi");
             Console.WriteLine("");
@@ -48,6 +46,8 @@ namespace _09_DatabaseProject
             }
 
             connection.CreateCommand();
+
+            #endregion
 
             Console.Read();
         }
